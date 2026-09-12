@@ -1,5 +1,7 @@
 # singlePageApp
 my info 
 this about me
-new project
+new project 
+i am learning git
+
   
